@@ -1,0 +1,57 @@
+body{
+}
+.container-fluid {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  background-color: #163452;
+
+
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+
+}
+
+.refresh-heading{
+  color: #63736e;
+  font-family: cursive;
+}
+
+.heading {
+  font-size: 2rem;
+  color: #63736e;
+  font-family:cursive;
+  margin-top: 15%;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family:cursive;
+
+}
+.btn-div{
+  text-align: center;
+}
+
+.ref-btn{
+  width: 13%;
+  margin-top: 14px;
+  background-color: #423839;
+}
